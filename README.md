@@ -1,5 +1,5 @@
 # AgendaTest
-Test for TuApplication.co
+Test for http://tuapplicacion.co/
 
 # How to use?
 1. Firstrun `yarn` or `npm intall` to install all dependencies.
